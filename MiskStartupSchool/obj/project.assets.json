@@ -7361,11 +7361,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\MiskStartupSchool\\MiskStartupSchool\\MyTask.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Documents\\MyTask\\MiskStartupSchool\\MyTask.csproj",
       "projectName": "MyTask",
-      "projectPath": "C:\\Users\\hp\\Desktop\\MiskStartupSchool\\MiskStartupSchool\\MyTask.csproj",
+      "projectPath": "C:\\Users\\hp\\Documents\\MyTask\\MiskStartupSchool\\MyTask.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\MiskStartupSchool\\MiskStartupSchool\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Documents\\MyTask\\MiskStartupSchool\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
