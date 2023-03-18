@@ -20,7 +20,7 @@ namespace MiskStartupSchool.Repository
 
             try
             {
-                var data = new ApplicationForm()
+                var data = new MyApplicationForm()
                 {
                     ApplicationId = Guid.NewGuid().ToString(),
                     ImageUrl = application.ImageUrl,
